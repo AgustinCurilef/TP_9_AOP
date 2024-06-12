@@ -1,0 +1,14 @@
+saveInscription, |a, ok, ag@g.com, 1234-568974, 3| ,2024/06/10 06:25:53
+todosLosConcursos, |sin parametros| ,2024/06/10 06:31:20
+todosLosConcursos, |sin parametros| ,2024/06/10 06:32:02
+saveInscription, |curii, aguss, aguss@gmail.com, 1230-001122, 6
+| ,2024/06/10 06:32:02
+todosLosConcursos, |sin parametros| ,2024/06/10 16:00:49
+todosLosConcursos, |sin parametros| ,2024/06/10 16:01:21
+saveInscription, |aaa, a, a@g.com, 0000-222333, 6
+| ,2024/06/10 16:01:21
+todosLosConcursos, |sin parametros| ,2024/06/10 16:01:29
+todosLosConcursos, |sin parametros| ,2024/06/12 18:32:29
+todosLosConcursos, |sin parametros| ,2024/06/12 18:32:58
+saveInscription, |aaa, aa, a@j.com, 1234-567889, 3
+| ,2024/06/12 18:32:58
